@@ -1,2 +1,2 @@
 # LMA
-The website of LMA
+The template website of LMA
